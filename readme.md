@@ -10,3 +10,11 @@ Agile is an SLDC that focus on customer feedback and rapid and incremental relea
      It’s an extension of CI by automatically deploying the successfully merged code to an environment (dev, testing, stage etc). In simple words CI automates the testing and merging and CD is an automated release process.
     * ## Cont. Deployment:
     It ’s a step further to automate the release to production after passing all the stages. The main difference bw Cont. delivery and cont. deployment is that cont. delivery has a manual step of releasing to production while cont. deployment automates all the processes including the release to production as well.
+
+* ## Answer#3:
+  ### Benefits of Cloud computing:
+    1. On-demand resources availability
+    2. Quick and easily scale up and down the resources according to the needs of the needs
+    3. Autoscaling
+    4. Free of hectic maintenance and cost of on Prem-server hardware and networking.
+    5. No upfront investment on the hardware required
