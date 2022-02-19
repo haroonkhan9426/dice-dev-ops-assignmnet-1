@@ -18,3 +18,6 @@ Agile is an SLDC that focus on customer feedback and rapid and incremental relea
     3. Autoscaling
     4. Free of hectic maintenance and cost of on Prem-server hardware and networking.
     5. No upfront investment on the hardware required
+
+* ## Answer#4:
+    Git is a lightweight local VCS while GitHub is distributed VCS based on git that host git repositories. On Github multiple devs can collaborate on a single project.
