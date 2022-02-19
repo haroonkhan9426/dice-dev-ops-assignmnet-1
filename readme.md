@@ -21,3 +21,10 @@ Agile is an SLDC that focus on customer feedback and rapid and incremental relea
 
 * ## Answer#4:
     Git is a lightweight local VCS while GitHub is distributed VCS based on git that host git repositories. On Github multiple devs can collaborate on a single project.
+
+* ## Answer#5:
+    Below are three listed stages of git repository:
+    1. Working directory
+    2. Stagging area
+    3. Committed area
+
