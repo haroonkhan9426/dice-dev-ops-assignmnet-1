@@ -28,3 +28,9 @@ Agile is an SLDC that focus on customer feedback and rapid and incremental relea
     2. Stagging area
     3. Committed area
 
+* ## Answer#6:
+    Below are three difference types of Reset:
+    1. Mixed: Remove commit/s from local repo and also remove chages from stagging area and keep changes in the working directory.
+    2. Soft: Remove commit/s from local repo but keep changes in the stagging area.
+    3. Hard: Remove commit/s from local repo and also remove chages from stagging area and local directory.
+
